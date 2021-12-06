@@ -1,7 +1,7 @@
 # java-games
 A space invaders/asteroids clone and a game of life simulation written in java.
 
-Both games can be find in the folder crs, where they will be in the folders game of life and inavder respectively.
+Both games can be find in the folder src, where they will be in the folders game of life and inavder respectively.
 
 ## Invader
 The main method for invader is in the file Invader.java.
