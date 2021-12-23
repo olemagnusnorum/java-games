@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/ole-magnusnorum/Desktop/java/games/.metadata/.plugins/org.eclipse.jdt.core
-4191119053.index
-1517987751.index
